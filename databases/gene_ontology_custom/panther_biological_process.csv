@@ -1,0 +1,154 @@
+PANTHER GO-Slim Biological Process,Homo sapiens - REFLIST (20592),upload_1 (826),upload_1 (expected),upload_1 (over/under),upload_1 (fold Enrichment),upload_1 (raw P-value),upload_1 (FDR)
+MAPK cascade (GO:0000165),21,14,.84,+,16.62,2.25E-15,2.75E-13
+epithelial cell migration (GO:0010631),5,3,.20,+,14.96,6.05E-04,1.12E-02
+endothelial cell migration (GO:0043542),5,3,.20,+,14.96,6.05E-04,1.11E-02
+epithelium migration (GO:0090132),5,3,.20,+,14.96,6.05E-04,1.10E-02
+tissue migration (GO:0090130),5,3,.20,+,14.96,6.05E-04,1.09E-02
+stress-activated MAPK cascade (GO:0051403),7,4,.28,+,14.25,8.16E-05,1.96E-03
+stress-activated protein kinase signaling cascade (GO:0031098),7,4,.28,+,14.25,8.16E-05,1.93E-03
+JNK cascade (GO:0007254),6,3,.24,+,12.46,1.17E-03,2.02E-02
+positive regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032436),27,11,1.08,+,10.16,2.93E-09,2.08E-07
+protein export from nucleus (GO:0006611),10,4,.40,+,9.97,4.45E-04,8.59E-03
+positive regulation of ubiquitin-dependent protein catabolic process (GO:2000060),28,11,1.12,+,9.79,4.65E-09,3.20E-07
+positive regulation of proteasomal protein catabolic process (GO:1901800),29,11,1.16,+,9.46,7.22E-09,4.42E-07
+positive regulation of proteolysis involved in protein catabolic process (GO:1903052),30,11,1.20,+,9.14,1.10E-08,6.37E-07
+triglyceride catabolic process (GO:0019433),11,4,.44,+,9.07,6.77E-04,1.21E-02
+DNA-templated transcription elongation (GO:0006354),11,4,.44,+,9.07,6.77E-04,1.20E-02
+mRNA splice site recognition (GO:0006376),14,5,.56,+,8.90,1.52E-04,3.34E-03
+protein phosphorylation (GO:0006468),256,86,10.27,+,8.37,9.21E-56,2.03E-52
+peptidyl-serine phosphorylation (GO:0018105),100,32,4.01,+,7.98,1.20E-20,1.65E-18
+cell cycle G1/S phase transition (GO:0044843),22,7,.88,+,7.93,1.64E-05,4.57E-04
+G1/S transition of mitotic cell cycle (GO:0000082),22,7,.88,+,7.93,1.64E-05,4.51E-04
+regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032434),35,11,1.40,+,7.84,6.99E-08,3.50E-06
+peptidyl-serine modification (GO:0018209),102,32,4.09,+,7.82,2.37E-20,3.07E-18
+phosphorylation (GO:0016310),282,88,11.31,+,7.78,5.59E-54,6.16E-51
+positive regulation of axonogenesis (GO:0050772),13,4,.52,+,7.67,1.37E-03,2.31E-02
+protein monoubiquitination (GO:0006513),13,4,.52,+,7.67,1.37E-03,2.29E-02
+regulation of ubiquitin-dependent protein catabolic process (GO:2000058),37,11,1.48,+,7.41,1.33E-07,6.37E-06
+spliceosomal complex assembly (GO:0000245),21,6,.84,+,7.12,1.32E-04,2.94E-03
+"regulation of alternative mRNA splicing, via spliceosome (GO:0000381)",28,8,1.12,+,7.12,9.85E-06,2.82E-04
+positive regulation of protein catabolic process (GO:0045732),40,11,1.60,+,6.86,3.22E-07,1.29E-05
+positive regulation of autophagy (GO:0010508),22,6,.88,+,6.80,1.76E-04,3.76E-03
+regulation of proteasomal protein catabolic process (GO:0061136),41,11,1.64,+,6.69,4.24E-07,1.61E-05
+regulation of proteolysis involved in protein catabolic process (GO:1903050),43,11,1.72,+,6.38,7.18E-07,2.64E-05
+NLS-bearing protein import into nucleus (GO:0006607),16,4,.64,+,6.23,3.18E-03,4.76E-02
+wound healing (GO:0042060),33,8,1.32,+,6.04,3.68E-05,9.43E-04
+"regulation of mRNA splicing, via spliceosome (GO:0048024)",49,11,1.97,+,5.60,2.92E-06,9.45E-05
+potassium ion import across plasma membrane (GO:1990573),36,8,1.44,+,5.54,7.22E-05,1.75E-03
+response to wounding (GO:0009611),37,8,1.48,+,5.39,8.88E-05,2.06E-03
+positive regulation of DNA-binding transcription factor activity (GO:0051091),42,9,1.68,+,5.34,3.48E-05,9.14E-04
+regulation of cell cycle G2/M phase transition (GO:1902749),28,6,1.12,+,5.34,7.22E-04,1.27E-02
+regulation of axonogenesis (GO:0050770),43,9,1.72,+,5.22,4.25E-05,1.08E-03
+positive regulation of NF-kappaB transcription factor activity (GO:0051092),29,6,1.16,+,5.16,8.80E-04,1.53E-02
+maturation of SSU-rRNA (GO:0030490),34,7,1.36,+,5.13,3.39E-04,6.74E-03
+actomyosin structure organization (GO:0031032),41,8,1.64,+,4.86,1.91E-04,4.04E-03
+positive regulation of proteolysis (GO:0045862),62,12,2.49,+,4.83,5.45E-06,1.69E-04
+"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) (GO:0000462)",26,5,1.04,+,4.79,3.34E-03,4.82E-02
+regulation of mRNA processing (GO:0050684),58,11,2.33,+,4.73,1.64E-05,4.46E-04
+heart development (GO:0007507),64,12,2.57,+,4.67,7.70E-06,2.36E-04
+regulation of protein catabolic process (GO:0042176),59,11,2.37,+,4.65,1.94E-05,5.22E-04
+protein deubiquitination (GO:0016579),85,15,3.41,+,4.40,1.29E-06,4.52E-05
+positive regulation of catabolic process (GO:0009896),98,17,3.93,+,4.32,3.31E-07,1.30E-05
+regulation of DNA-binding transcription factor activity (GO:0051090),52,9,2.09,+,4.31,2.01E-04,4.18E-03
+negative regulation of canonical Wnt signaling pathway (GO:0090090),35,6,1.40,+,4.27,2.45E-03,3.83E-02
+intracellular signal transduction (GO:0035556),486,83,19.49,+,4.26,1.05E-29,1.78E-27
+mitotic cell cycle phase transition (GO:0044772),47,8,1.89,+,4.24,5.08E-04,9.73E-03
+cell cycle phase transition (GO:0044770),47,8,1.89,+,4.24,5.08E-04,9.65E-03
+regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043122),42,7,1.68,+,4.15,1.29E-03,2.18E-02
+muscle structure development (GO:0061061),60,10,2.41,+,4.15,1.25E-04,2.81E-03
+protein modification by small protein removal (GO:0070646),96,16,3.85,+,4.15,1.28E-06,4.54E-05
+regulation of RNA splicing (GO:0043484),74,12,2.97,+,4.04,3.57E-05,9.24E-04
+regulation of MAPK cascade (GO:0043408),113,17,4.53,+,3.75,2.61E-06,8.59E-05
+"mRNA splicing, via spliceosome (GO:0000398)",141,21,5.66,+,3.71,2.13E-07,9.19E-06
+"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)",141,21,5.66,+,3.71,2.13E-07,9.02E-06
+"RNA splicing, via transesterification reactions (GO:0000375)",141,21,5.66,+,3.71,2.13E-07,8.85E-06
+negative regulation of Wnt signaling pathway (GO:0030178),47,7,1.89,+,3.71,2.53E-03,3.92E-02
+mRNA processing (GO:0006397),178,26,7.14,+,3.64,1.19E-08,6.69E-07
+phosphorus metabolic process (GO:0006793),738,107,29.60,+,3.61,9.87E-32,2.17E-29
+phosphate-containing compound metabolic process (GO:0006796),732,106,29.36,+,3.61,2.18E-31,4.00E-29
+regulation of autophagy (GO:0010506),49,7,1.97,+,3.56,3.22E-03,4.79E-02
+protein modification process (GO:0036211),1123,160,45.05,+,3.55,5.58E-47,4.10E-44
+regulation of neuron projection development (GO:0010975),78,11,3.13,+,3.52,2.71E-04,5.47E-03
+RNA splicing (GO:0008380),160,22,6.42,+,3.43,4.57E-07,1.71E-05
+protein polyubiquitination (GO:0000209),124,17,4.97,+,3.42,9.44E-06,2.74E-04
+chromatin remodeling (GO:0006338),89,12,3.57,+,3.36,2.23E-04,4.54E-03
+macromolecule modification (GO:0043412),1235,164,49.54,+,3.31,4.35E-44,2.40E-41
+regulation of plasma membrane bounded cell projection organization (GO:0120035),106,14,4.25,+,3.29,8.61E-05,2.02E-03
+RNA 3'-end processing (GO:0031123),61,8,2.45,+,3.27,2.91E-03,4.42E-02
+regulation of cell projection organization (GO:0031344),108,14,4.33,+,3.23,1.06E-04,2.40E-03
+peptidyl-amino acid modification (GO:0018193),301,39,12.07,+,3.23,1.11E-10,1.11E-08
+regulation of Wnt signaling pathway (GO:0030111),82,10,3.29,+,3.04,1.60E-03,2.60E-02
+chromatin organization (GO:0006325),108,13,4.33,+,3.00,3.87E-04,7.55E-03
+mRNA metabolic process (GO:0016071),243,29,9.75,+,2.98,1.66E-07,7.33E-06
+regulation of catabolic process (GO:0009894),178,21,7.14,+,2.94,9.86E-06,2.78E-04
+circulatory system development (GO:0072359),112,13,4.49,+,2.89,5.52E-04,1.03E-02
+protein modification by small protein conjugation or removal (GO:0070647),427,49,17.13,+,2.86,3.83E-11,4.01E-09
+innate immune response (GO:0045087),89,10,3.57,+,2.80,2.97E-03,4.48E-02
+regulation of mRNA metabolic process (GO:1903311),117,13,4.69,+,2.77,8.38E-04,1.46E-02
+protein ubiquitination (GO:0016567),299,33,11.99,+,2.75,1.55E-07,6.95E-06
+DNA-templated transcription (GO:0006351),110,12,4.41,+,2.72,1.54E-03,2.51E-02
+regulation of intracellular signal transduction (GO:1902531),313,34,12.56,+,2.71,1.47E-07,6.77E-06
+rRNA metabolic process (GO:0016072),122,13,4.89,+,2.66,1.24E-03,2.11E-02
+protein-DNA complex organization (GO:0071824),141,15,5.66,+,2.65,5.50E-04,1.04E-02
+protein metabolic process (GO:0019538),1750,186,70.20,+,2.65,1.87E-36,5.15E-34
+positive regulation of protein metabolic process (GO:0051247),199,21,7.98,+,2.63,5.32E-05,1.33E-03
+RNA biosynthetic process (GO:0032774),114,12,4.57,+,2.62,2.09E-03,3.28E-02
+regulation of signal transduction (GO:0009966),591,61,23.71,+,2.57,1.39E-11,1.53E-09
+RNA processing (GO:0006396),419,43,16.81,+,2.56,1.82E-08,9.52E-07
+protein modification by small protein conjugation (GO:0032446),331,33,13.28,+,2.49,1.57E-06,5.24E-05
+negative regulation of signal transduction (GO:0009968),216,21,8.66,+,2.42,1.72E-04,3.71E-03
+negative regulation of cell communication (GO:0010648),220,21,8.82,+,2.38,3.38E-04,6.77E-03
+negative regulation of signaling (GO:0023057),221,21,8.86,+,2.37,3.47E-04,6.83E-03
+RNA metabolic process (GO:0016070),658,62,26.39,+,2.35,4.41E-10,3.59E-08
+regulation of cell communication (GO:0010646),680,64,27.28,+,2.35,2.33E-10,2.23E-08
+regulation of signaling (GO:0023051),683,64,27.40,+,2.34,2.74E-10,2.52E-08
+macromolecule metabolic process (GO:0043170),2766,259,110.95,+,2.33,2.23E-42,8.20E-40
+organonitrogen compound metabolic process (GO:1901564),2190,203,87.85,+,2.31,1.67E-31,3.34E-29
+mitotic cell cycle process (GO:1903047),174,16,6.98,+,2.29,2.54E-03,3.92E-02
+cellular component morphogenesis (GO:0032989),185,17,7.42,+,2.29,1.79E-03,2.88E-02
+nitrogen compound metabolic process (GO:0006807),3058,279,122.66,+,2.27,6.30E-44,2.77E-41
+positive regulation of signal transduction (GO:0009967),219,19,8.78,+,2.16,1.50E-03,2.46E-02
+primary metabolic process (GO:0044238),3406,286,136.62,+,2.09,2.94E-38,9.24E-36
+regulation of response to stimulus (GO:0048583),828,69,33.21,+,2.08,1.06E-08,6.33E-07
+nucleic acid metabolic process (GO:0090304),925,77,37.10,+,2.08,1.58E-09,1.16E-07
+cellular metabolic process (GO:0044237),2512,209,100.76,+,2.07,4.82E-26,7.08E-24
+positive regulation of macromolecule metabolic process (GO:0010604),602,50,24.15,+,2.07,1.31E-06,4.50E-05
+positive regulation of transcription by RNA polymerase II (GO:0045944),230,19,9.23,+,2.06,3.24E-03,4.78E-02
+positive regulation of metabolic process (GO:0009893),680,56,27.28,+,2.05,4.04E-07,1.56E-05
+nucleobase-containing compound biosynthetic process (GO:0034654),231,19,9.27,+,2.05,3.33E-03,4.82E-02
+negative regulation of response to stimulus (GO:0048585),269,22,10.79,+,2.04,1.49E-03,2.47E-02
+positive regulation of nitrogen compound metabolic process (GO:0051173),554,45,22.22,+,2.02,7.88E-06,2.35E-04
+actin cytoskeleton organization (GO:0030036),252,20,10.11,+,1.98,3.35E-03,4.80E-02
+heterocycle metabolic process (GO:0046483),1162,92,46.61,+,1.97,3.83E-10,3.37E-08
+nucleobase-containing compound metabolic process (GO:0006139),1112,88,44.61,+,1.97,8.49E-10,6.45E-08
+cellular aromatic compound metabolic process (GO:0006725),1174,92,47.09,+,1.95,7.75E-10,6.10E-08
+organic substance metabolic process (GO:0071704),3744,291,150.18,+,1.94,1.08E-32,2.64E-30
+ncRNA metabolic process (GO:0034660),284,22,11.39,+,1.93,3.27E-03,4.77E-02
+organic cyclic compound metabolic process (GO:1901360),1237,93,49.62,+,1.87,5.40E-09,3.60E-07
+metabolic process (GO:0008152),3952,292,158.53,+,1.84,6.66E-29,1.05E-26
+cellular nitrogen compound metabolic process (GO:0034641),1316,97,52.79,+,1.84,6.22E-09,3.92E-07
+proteolysis (GO:0006508),612,45,24.55,+,1.83,9.21E-05,2.11E-03
+positive regulation of biological process (GO:0048518),1291,91,51.79,+,1.76,1.47E-07,6.87E-06
+signal transduction (GO:0007165),1907,132,76.49,+,1.73,4.05E-10,3.43E-08
+response to stress (GO:0006950),757,52,30.37,+,1.71,2.02E-04,4.15E-03
+positive regulation of cellular metabolic process (GO:0031325),545,37,21.86,+,1.69,1.81E-03,2.88E-02
+gene expression (GO:0010467),816,55,32.73,+,1.68,1.70E-04,3.70E-03
+cytoskeleton organization (GO:0007010),604,40,24.23,+,1.65,2.08E-03,3.30E-02
+positive regulation of cellular process (GO:0048522),1069,70,42.88,+,1.63,5.53E-05,1.37E-03
+signaling (GO:0023052),2058,133,82.55,+,1.61,2.87E-08,1.47E-06
+cellular response to stimulus (GO:0051716),2370,151,95.07,+,1.59,5.62E-09,3.64E-07
+cell communication (GO:0007154),2091,133,83.88,+,1.59,7.11E-08,3.48E-06
+cellular component organization or biogenesis (GO:0071840),2258,136,90.57,+,1.50,1.19E-06,4.30E-05
+cellular component organization (GO:0016043),2133,126,85.56,+,1.47,8.57E-06,2.52E-04
+response to stimulus (GO:0050896),3116,169,124.99,+,1.35,2.98E-05,7.90E-04
+cellular process (GO:0009987),7929,425,318.05,+,1.34,1.71E-14,1.99E-12
+regulation of cellular process (GO:0050794),5312,274,213.08,+,1.29,1.57E-06,5.32E-05
+regulation of biological process (GO:0050789),5788,290,232.17,+,1.25,7.74E-06,2.34E-04
+biological regulation (GO:0065007),6092,305,244.37,+,1.25,4.20E-06,1.32E-04
+biological_process (GO:0008150),12290,571,492.98,+,1.16,1.19E-08,6.42E-07
+Unclassified (UNCLASSIFIED),8302,255,333.02,-,.77,1.19E-08,6.58E-07
+regulation of transcription by RNA polymerase II (GO:0006357),1649,30,66.15,-,.45,2.73E-07,1.11E-05
+nervous system process (GO:0050877),341,4,13.68,-,.29,3.24E-03,4.76E-02
+response to oxygen-containing compound (GO:1901700),213,1,8.54,-,.12,2.55E-03,3.90E-02
+G protein-coupled receptor signaling pathway (GO:0007186),450,2,18.05,-,.11,4.05E-06,1.29E-04
+sensory perception of chemical stimulus (GO:0007606),219,0,8.78,-, < 0.01,1.97E-04,4.12E-03

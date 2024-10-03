@@ -1,0 +1,42 @@
+Aliases,Domain name,Proteins in the human genome,Drug-like ligands in PDB,Structures with bound ligand in PDB,Proteins with bound ligand in PDB
+GPCR,GPCR,710,67,98,37
+Protein kinase domain,Protein kinase domain,482,2091,2536,195
+WD40 Repeat;WD40/YVTN repeat-like-containing domain superfamily,WDR,266,31,33,4
+LEUCINE RICH REPEAT DOMAIN SUPERFAMILY,LRR,261,2,1,1
+EF HAND DOMAIN,EF-hand domain,228,3,7,2
+BTB POZ DOMAIN;SKP1/BTB/POZ DOMAIN SUPERFAMILY,BTB/POZ domain,178,7,7,1
+PDZ DOMAIN;PDZ SUPERFAMILY,PDZ domain,152,1,1,2
+Small GTPase,Small GTPase,137,33,35,1
+SERINE PROTEASES,Serine proteases,121,427,449,18
+SH2 DOMAIN,SH2 domain,109,3,3,1
+HELICASE;HELICASE SUPERFAMILY 1 2,Helicase C-terminal,108,1,1,1
+ION TRANSPORT DOMAIN,Ion transport domain,106,3,3,1
+MHC CLASS I LIKE ANTIGEN RECOGNITION LIKE SUPERFAMILY,MHC class I-like antigen,92,1,3,1
+C TYPE LECTIN LIKE,C-type lectin-like,86,1,1,1
+VON WILLEBRAND FACTOR,von Willebrand factor type A,76,7,7,2
+PEPTIDASE C19,USP peptidase C19,74,15,15,3
+KELCH REPEAT TYPE 1,Kelch repeat type 1,61,13,14,1
+,Lamin G domain,61,4,7,1
+CYTOCHROME P450 SUPERFAMILY,Cytochrome P450,60,65,80,18
+,Short-chain oxidoreductases SDR,55,8,8,2
+,SET domain,51,21,27,8
+,GPCR family 2 secretin-like,49,1,1,1
+,Nuclear hormone receptor ligand-binding domain,48,515,686,25
+KINESIN MOTOR DOMAIN,Kinesin motor domain,45,5,6,1
+ARMADILLO,Armadillo,42,3,3,1
+BROMODOMAIN,Bromodomain,41,297,365,22
+,Peptidase M12B,40,8,8,3
+,Ubiquitin-conjugating E2,40,1,1,1
+,Myosin head motor domain,39,6,21,5
+,PTP type protein phosphatase,38,11,8,1
+,Serpin domain,36,2,3,2
+"Major facilitator,  sugar transporter-like",Sugar transporter-like,36,2,2,2
+,Receptor ligand-binding region,34,5,6,4
+,Fatty-acid binding domain,34,5,6,4
+,Tetraspanin/peripherin,33,1,109,11
+,Sulfotransferase domain,33,4,5,3
+,JmjC domain,32,39,48,10
+,Actin family,32,4,29,3
+"SNF2-like, N-terminal domain superfamily ",SNF2-related N-ter domain,32,2,2,1
+,Ras GEF catalytic domain,30,21,31,1
+,AMP-dependent synthetase/ligase,30,1,1,1

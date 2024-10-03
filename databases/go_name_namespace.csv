@@ -1,0 +1,53 @@
+ID,Name,Namespace
+GO:0002376,immune system process,biological_process
+GO:0003677,DNA binding,molecular_function
+GO:0003700,DNA-binding transcription factor activity,molecular_function
+GO:0003723,RNA binding,molecular_function
+GO:0003824,catalytic activity,molecular_function
+GO:0005102,signaling receptor binding,molecular_function
+GO:0005198,structural molecule activity,molecular_function
+GO:0005215,transporter activity,molecular_function
+GO:0005576,extracellular region,cellular_component
+GO:0005634,nucleus,cellular_component
+GO:0005694,chromosome,cellular_component
+GO:0005739,mitochondrion,cellular_component
+GO:0005768,endosome,cellular_component
+GO:0005773,vacuole,cellular_component
+GO:0005783,endoplasmic reticulum,cellular_component
+GO:0005794,Golgi apparatus,cellular_component
+GO:0005829,cytosol,cellular_component
+GO:0005856,cytoskeleton,cellular_component
+GO:0005886,plasma membrane,cellular_component
+GO:0005975,carbohydrate metabolic process,biological_process
+GO:0006259,DNA metabolic process,biological_process
+GO:0006629,lipid metabolic process,biological_process
+GO:0007049,cell cycle,biological_process
+GO:0007610,behavior,biological_process
+GO:0008092,cytoskeletal protein binding,molecular_function
+GO:0008134,transcription factor binding,molecular_function
+GO:0008283,cell population proliferation,biological_process
+GO:0008289,lipid binding,molecular_function
+GO:0009056,catabolic process,biological_process
+GO:0012501,programmed cell death,biological_process
+GO:0016043,cellular component organization,biological_process
+GO:0016070,RNA metabolic process,biological_process
+GO:0019538,protein metabolic process,biological_process
+GO:0022414,reproductive process,biological_process
+GO:0023052,signaling,biological_process
+GO:0030054,cell junction,cellular_component
+GO:0030154,cell differentiation,biological_process
+GO:0030234,enzyme regulator activity,molecular_function
+GO:0030246,carbohydrate binding,molecular_function
+GO:0031410,cytoplasmic vesicle,cellular_component
+GO:0032502,developmental process,biological_process
+GO:0032991,protein-containing complex,cellular_component
+GO:0036094,small molecule binding,molecular_function
+GO:0038023,signaling receptor activity,molecular_function
+GO:0042592,homeostatic process,biological_process
+GO:0042995,cell projection,cellular_component
+GO:0045202,synapse,cellular_component
+GO:0046872,metal ion binding,molecular_function
+GO:0050877,nervous system process,biological_process
+GO:0050896,response to stimulus,biological_process
+GO:0051234,establishment of localization,biological_process
+GO:0097367,carbohydrate derivative binding,molecular_function

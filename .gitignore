@@ -1,0 +1,14 @@
+## IDE
+.settings
+.vscode/
+.flake8
+.venv/
+__pycache__
+
+alignment_output_5res/
+error_5res.log
+notebooks/degron_sequence_analysis_supplement/
+notebooks/fig1/
+notebooks/suppfig1/
+out_csv_5res_test/
+output_5res.log
