@@ -1,6 +1,6 @@
 # G-loop Mining
 
-This repository contains the source code, data, and scripts related to the research on **β-hairpin G-loop motifs** and **minimal G-loop motifs** involved in CRBN neosubstrate recognition. This project predicts and validates CRBN-compatible β-hairpin and helical G-loop proteins, contributing to our understanding of molecular glue degraders and their impact on neosubstrate recruitment. This repository reproduces the results of *Mining the CRBN Target Space Redefines Rules for Molecular Glue-induced Neosubstrate Recognition* (see Citation).
+This repository contains the source code, data, and scripts related to the research on **β-hairpin G-loop motifs** and **minimal G-loop motifs** involved in CRBN neosubstrate recognition. This project predicts and validates CRBN-compatible β-hairpin and helical G-loop proteins, contributing to our understanding of molecular glue degraders and their impact on neosubstrate recruitment. This repository reproduces the results of *Mining the CRBN Target Space Redefines Rules for Molecular Glue-induced Neosubstrate Recognition* (see Reference below).
 
 ## Overview
 
@@ -40,3 +40,9 @@ First download the AF2 and PDB models from zenodo:
 Then, run the full list:
 
 ```./run_all_list.sh```
+
+# Reference
+
+_*Mining the CRBN Target Space Redefines Rules for Molecular Glue-induced Neosubstrate Recognition*_
+*Authors*: Georg Petzold, Pablo Gainza, Stefano Annunziato, Ilaria Lamberto, Peter Trenh, Laura A. McAllister, Bradley DeMarco, Laura Schwander, Richard D. Bunker, Mary Zlotosch, Rohitha SriRamaratnam, Samuel Gilberto, Gerasimos Langousis, Etienne J. Donckele, Chao Quan, Vaik Strande, Gian Marco De Donatis, Shanique B. Alabi, Jessica Alers, Michelle Matysik, Camille Staehly, Aurelie Dubois, Arnaud Osmont, Mackenzie Garskovas, David Lyon, Lars Wiedmer, Vladimiras Oleinikovas, Raphael Lieberherr, Nooreen T. Rubin, Daniel T. Lam, Nina Ilic Widlund, Andreas Ritzen, Ramon Miguel Caceres, Dominico Vigil, Jennifer Tsai, Owen Wallace, Marisa Peluso, Amine Sadok, Alison Paterson, Vladislav Zarayskiy, Bernhard Fasching, Debora Bonenfant, Markus Warmuth, John Castle, Sharon A. Townson
+_bioRxiv 2024.10.07.616933; doi: https://doi.org/10.1101/2024.10.07.616933_
