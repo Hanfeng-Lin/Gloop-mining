@@ -13,7 +13,7 @@ python3 source/mining.py \
         --glycine_pos $glycine_pos \
         --target_motif_pdb_fn $target_motif_pdb_fn \
         --pdb_dir test_data/ \
-        --af2_dir af2_domains/ \
+        --af2_dir af2_models/ \
         --temp_output_dir $temp_dir \
         --output_dir $output_dir split_job_lists/test.list 
 
