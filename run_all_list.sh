@@ -4,8 +4,9 @@ num_processes=20
 # If you set the motif_size to 8 then the glycine_pos should be 5
 # If you set the motif_size to 5 then the glycine_pos should be 3
 motif_size=5
-glycine_pos=3
-target_motif_pdb_fn=input_template/MOTIFx5FQDxB_${motif_size}res.pdb
+Asp_pos=1
+Ser_pos=3
+target_motif_pdb_fn=input_template/MOTIFxVAV1xB_${motif_size}res.pdb
 alignment_dir=alignment_output_${motif_size}res/
 output_dir=out_csv_${motif_size}res_test/
 pdb_dir=./pdb_models
@@ -13,7 +14,8 @@ af2_dir=./af2_models
 mkdir -p $output_dir
 mkdir -p $alignment_dir
 cat split_job_lists/all_split.list | xargs -P $num_processes -n 1 python3 source/mining.py \
-        --glycine_pos $glycine_pos \
+        --Asp_pos $Asp_pos \
+        --Ser_pos $Ser_pos \
         --target_motif_pdb_fn $target_motif_pdb_fn \
         --pdb_dir $pdb_dir \
         --af2_dir $af2_dir \
